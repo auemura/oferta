@@ -2,6 +2,11 @@
 
 > microserviço criado para busca de oferta por geolocalização
 
+# Tecnologia 
+```
+Linguagem Java 11
+```
+
 ## Rodar o Projeto Localmente
 
 - Instalar o MongoDB localmente e expor na porta 27017
